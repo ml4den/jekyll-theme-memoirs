@@ -2,7 +2,7 @@
 layout: post
 title:  "How long does it take for a snowflake to fall to the ground?"
 author: sal
-categories: [ "Nature and Geography" ]
+categories: [ "Nature & Geography" ]
 image: assets/images/snowflake-640x896.jpg
 ---
 
